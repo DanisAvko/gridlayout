@@ -148,13 +148,13 @@
                     if (elInd !== masIndLen - 1) {
                         if (this.layout[masInd][masIndLen - 1].x + this.layout[masInd][masIndLen - 1].w >= this.initCountColumns) {
                             this.column[masInd] = this.layout[masInd][masIndLen - 1].x + this.layout[masInd][masIndLen - 1].w
-                            this.panelWidth[masInd] = Math.ceil(this.column[masInd] * this.blockWidth)
+                            this.panelWidth[masInd] = this.column[masInd] * this.blockWidth
 
                         }
                     } else {
                         if (this.layout[masInd][masIndLen - 1].x + newW >= (this.column[masInd]+1)) {
                             this.column[masInd] = this.layout[masInd][masIndLen - 1].x + newW
-                            this.panelWidth[masInd] = Math.ceil(this.column[masInd] * this.blockWidth)
+                            this.panelWidth[masInd] = this.column[masInd] * this.blockWidth
                         }
                     }
 
