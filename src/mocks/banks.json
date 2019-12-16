@@ -1,0 +1,328 @@
+{
+  "banks": [
+    {
+      "name": "UATP",
+      "lenght":15,
+      "start": "1",
+      "end": "1"
+    },
+    {
+      "name": "American Express",
+      "lenght": 15,
+      "start": "34",
+      "end": "34"
+    },
+    {
+      "name": "American Express",
+      "lenght": 15,
+      "start": "37",
+      "end": "37"
+    },
+    {
+      "name": "Bankcard",
+      "lenght": 16,
+      "start": "5610",
+      "end": "5610"
+    },
+    {
+      "name": "Bankcard",
+      "lenght": 16,
+      "start": "560221",
+      "end": "560225"
+    },
+    {
+      "name": "China T-Union",
+      "lenght": 19,
+      "start": "31",
+      "end": "31"
+    },
+    {
+      "name": "UnionPay",
+      "lenght": [16,17,18,19],
+      "start": "62",
+      "end": "62"
+    },
+    {
+      "name": "UnionPay",
+      "lenght": [16,17,18,19],
+      "start": "81",
+      "end": "81"
+    },
+    {
+      "name": "Diners Club enRoute",
+      "lenght": 15,
+      "start": "2014",
+      "end": "2014"
+    },
+    {
+      "name": "Diners Club enRoute",
+      "lenght": 15,
+      "start": "2149",
+      "end": "2149"
+    },
+    {
+      "name": "Diners Club International",
+      "lenght": [14,15,16,17,18,19],
+      "start": "36",
+      "end": "36"
+    },
+    {
+      "name": "Diners Club International",
+      "lenght": [16,17,18,19],
+      "start": "300",
+      "end": "305"
+    },
+    {
+      "name": "Diners Club International",
+      "lenght": [16,17,18,19],
+      "start": "3095",
+      "end": "3095"
+    },
+    {
+      "name": "Diners Club International",
+      "lenght": [16,17,18,19],
+      "start": "38",
+      "end": "39"
+    },
+    {
+      "name": "Diners Club United States & Canada",
+      "lenght": 16,
+      "start": "54",
+      "end": "55"
+    },
+    {
+      "name": "Discover Card",
+      "lenght": [16,17,18,19],
+      "start": "6011",
+      "end": "6011"
+    },
+    {
+      "name": "Discover Card",
+      "lenght": [16,17,18,19],
+      "start": "622126",
+      "end": "622925"
+    },
+    {
+      "name": "Discover Card",
+      "lenght": [16,17,18,19],
+      "start": "624000",
+      "end": "626999"
+    },
+    {
+      "name": "Discover Card",
+      "lenght": [16,17,18,19],
+      "start": "628200",
+      "end": "628899"
+    },
+    {
+      "name": "Discover Card",
+      "lenght": [16,17,18,19],
+      "start": "64",
+      "end": "65"
+    },
+    {
+      "name": "RuPay",
+      "lenght": 16,
+      "start": "60",
+      "end": "60"
+    },
+    {
+      "name": "RuPay",
+      "lenght": 16,
+      "start": "6521",
+      "end": "6522"
+    },
+    {
+      "name": "InterPayment",
+      "lenght": [16,17,18,19],
+      "start": "636",
+      "end": "636"
+    },
+    {
+      "name": "InstaPayment",
+      "lenght": 16,
+      "start": "637",
+      "end": "639"
+    },
+    {
+      "name": "JCB",
+      "lenght": [16,17,18,19],
+      "start": "3528",
+      "end": "3589"
+    },
+    {
+      "name": "Laser",
+      "lenght": [16,17,18,19],
+      "start": "6304",
+      "end": "6304"
+    },
+    {
+      "name": "Laser",
+      "lenght": [16,17,18,19],
+      "start": "6706",
+      "end": "6706"
+    },
+    {
+      "name": "Laser",
+      "lenght": [16,17,18,19],
+      "start": "6771",
+      "end": "6771"
+    },
+    {
+      "name": "Laser",
+      "lenght": [16,17,18,19],
+      "start": "6709",
+      "end": "6709"
+    },
+    {
+      "name": "Maestro UK",
+      "lenght": [12,13,14,15,16,17,18,19],
+      "start": "6759",
+      "end": "6759"
+    },
+    {
+      "name": "Maestro UK",
+      "lenght": [12,13,14,15,16,17,18,19],
+      "start": "676770",
+      "end": "676770"
+    },
+    {
+      "name": "Maestro UK",
+      "lenght": [12,13,14,15,16,17,18,19],
+      "start": "676774",
+      "end": "676774"
+    },
+    {
+      "name": "Maestro",
+      "lenght": [12,13,14,15,16,17,18,19],
+      "start": "50",
+      "end": "50"
+    },
+    {
+      "name": "Dankort",
+      "lenght":16,
+      "start": "5019",
+      "end": "5019"
+    },
+    {
+      "name": "Dankort",
+      "lenght":16,
+      "start": "4571",
+      "end": "4571"
+    },
+    {
+      "name": "MIR",
+      "lenght":16,
+      "start": "2200",
+      "end": "2204"
+    },
+    {
+      "name": "NPS Pridnestrovie",
+      "lenght":16,
+      "start": "6054740",
+      "end": "6054744"
+    },
+    {
+      "name": "MASTERCARD",
+      "lenght":16,
+      "start": "2221",
+      "end": "2720"
+    },
+    {
+      "name": "MASTERCARD",
+      "lenght":16,
+      "start": "51",
+      "end": "54"
+    },
+    {
+      "name": "Solo",
+      "lenght":[16,18,19],
+      "start": "6334",
+      "end": "6334"
+    },
+    {
+      "name": "Solo",
+      "lenght":[16,18,19],
+      "start": "6767",
+      "end": "6767"
+    },
+    {
+      "name": "Switch",
+      "lenght":[16,18,19],
+      "start": "4903",
+      "end": "4903"
+    },
+    {
+      "name": "Switch",
+      "lenght":[16,18,19],
+      "start": "4905",
+      "end": "4905"
+    },
+    {
+      "name": "Switch",
+      "lenght":[16,18,19],
+      "start": "4911",
+      "end": "4911"
+    },
+    {
+      "name": "Switch",
+      "lenght":[16,18,19],
+      "start": "4936",
+      "end": "4936"
+    },
+    {
+      "name": "Switch",
+      "lenght":[16,18,19],
+      "start": "564182",
+      "end": "564182"
+    },
+    {
+      "name": "Switch",
+      "lenght":[16,18,19],
+      "start": "633110",
+      "end": "633110"
+    },
+    {
+      "name": "Switch",
+      "lenght":[16,18,19],
+      "start": "6333",
+      "end": "6333"
+    },
+    {
+      "name": "Switch",
+      "lenght":[16,18,19],
+      "start": "6759",
+      "end": "6759"
+    },
+    {
+      "name": "Troy",
+      "lenght":16,
+      "start": "979200",
+      "end": "979289"
+    },
+    {
+      "name": "Visa",
+      "lenght":16,
+      "start": "4",
+      "end": "4"
+    },
+    {
+      "name": "Verve",
+      "lenght":[16,19],
+      "start": "506099",
+      "end": "506198"
+    },
+    {
+      "name": "Verve",
+      "lenght":[16,19],
+      "start": "650002",
+      "end": "650027"
+    },
+    {
+      "name": "LankaPay",
+      "lenght":16,
+      "start": "357111",
+      "end": "357111"
+    }
+  ]
+}

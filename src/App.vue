@@ -1,25 +1,26 @@
 <template>
- <v-app>
-   <GridCard></GridCard>
- </v-app>
+    <v-app>
+        <Plane></Plane>
+    </v-app>
 </template>
 
 <script>
-import GridCard from "./components/GridCard";
-import Vue from 'vue'
-import Vuetify from 'vuetify/lib'
+    import Vue from 'vue'
+    import Vuetify from 'vuetify/lib'
+    import Plane from "./components/Plane";
 
-Vue.use(Vuetify)
 
-export default {
-  name: 'App',
+    Vue.use(Vuetify)
 
-  components: {
-    GridCard
-  },
+    export default {
+        name: 'App',
 
-  data: () => ({
-    //
-  }),
-};
+        components: {
+            Plane
+        },
+
+        data: () => ({
+            //
+        }),
+    };
 </script>
